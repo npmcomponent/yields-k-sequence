@@ -3,7 +3,7 @@
  * dependencies
  */
 
-var keycode = require('keycode');
+var keycode = require('yields-keycode');
 
 /**
  * Export `sequence`

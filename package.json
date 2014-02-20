@@ -1,0 +1,16 @@
+{
+  "name": "yields-k-sequence",
+  "description": "keyboard sequences.",
+  "version": "0.1.0",
+  "keywords": [
+    "k",
+    "sequence",
+    "gmail",
+    "keyboard"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "yields-keycode": "git://github.com/npmcomponent/yields-keycode.git"
+  },
+  "license": "MIT"
+}
